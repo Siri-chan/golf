@@ -1,0 +1,4 @@
+*
+!*.hs
+!.gitignore
+!readme.hs.md
