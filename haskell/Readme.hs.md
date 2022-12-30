@@ -20,3 +20,7 @@ VERSION="20.04 LTS (Focal Fossa)"
 $ ghc --version
 The Glorious Glasgow Haskell Compilation System, version 9.4.2
 ```
+
+## Further Reading
+
+<https://codegolf.stackexchange.com/questions/19255/tips-for-golfing-in-haskell?page=1&tab=scoredesc#tab-top>

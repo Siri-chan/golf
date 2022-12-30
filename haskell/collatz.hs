@@ -1,5 +1,6 @@
 --- The Collatz Conjecture in Haskell
 ---- https://code.golf/collatz#haskell
+-- Copyright (c) Kira K. 2022
 --- To be optimised for Code Golf
 -- Pre-Golf:
 

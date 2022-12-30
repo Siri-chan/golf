@@ -1,5 +1,6 @@
---- 12 Days of Christmas in Haskell
+--- 99 Bottles in Haskell
 ---- https://code.golf/12-days-of-christmas#haskell
+-- Copyright (c) Kira K. 2022
 --- To be optimised for Code Golf
 -- Pre-Golf:
 

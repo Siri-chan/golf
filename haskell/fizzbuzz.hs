@@ -1,5 +1,6 @@
 --- FizzBuzz in Haskell
 ---- https://code.golf/fizz-buzz#haskell
+-- Copyright (c) Kira K. 2022
 --- To be optimised for Code Golf
 -- Pre-Golf:
 
