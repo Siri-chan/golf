@@ -20,9 +20,8 @@ for i in range (1,100):
 #golf:
 
 #BEGIN#
-p=print
 def e(i):
-  f=i%5==0
+  f=i%5==0;p=print
   if i%3==0:
    if f:p("FizzBuzz")
    else:p("Fizz")
