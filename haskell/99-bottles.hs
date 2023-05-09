@@ -26,8 +26,8 @@ bottleCount n | n == 0 = "no more bottles of beer"
 -- Post-Golf:
 
 --BEGIN--
-main = putStrLn$b 99
+main=putStrLn$b 99
 b 0="No more bottles of beer on the wall, no more bottles of beer.\nGo to the store and buy some more, 99 bottles of beer on the wall."
 b n=c++" on the wall, "++c++".\nTake one down and pass it around, "++d++" on the wall.\n\n"++b(n-1)where c=a n;d=a(n-1)
-a n |n==0="no more bottles of beer"|n==1=show n++" bottle of beer"|0<1=show n++" bottles of beer"
+a n|n==0="no more bottles of beer"|n==1=show n++" bottle of beer"|0<1=show n++" bottles of beer"
 --END--
