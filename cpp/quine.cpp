@@ -1,5 +1,5 @@
-/*** Pascal's Triangle in C++
-**** https://code.golf/pascals-triangle#cpp
+/*** Quine in C++
+**** https://code.golf/quine#cpp
 * Copyright (c) Kira K. 2023
 ** Uses R" strings */
 //BEGIN
