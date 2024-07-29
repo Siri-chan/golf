@@ -41,3 +41,5 @@ pub fn readable_main() {
 }
 
 pub/*BEGIN*/fn main(){for n in 1..101{let mut b=0<1;if n%3==0{print!("Fizz");b=0>1;}if n%5==0{print!("Buzz");b=0>1;}if b{print!("{}",n);}println!("");}}/*END*/
+
+pub/*BEGIN*/fn main(){for n in 1..101{let mut b=0<1;if n%3==0{print!("Fizz");b=!b}if n%5==0{print!("Buzz");b=0>1}if b{print!("{}",n)}println!("")}}/*END*/
